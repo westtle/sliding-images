@@ -100,6 +100,8 @@ hr {
     word-wrap: break-word;
 }
 
+/* Media Query */
+
 /* Font Size */
 @media (max-width: 30rem) { /* 480px */
 	html {
